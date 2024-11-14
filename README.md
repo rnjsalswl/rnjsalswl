@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
+<br />
 <!--
 <a href="https://github.com/rnjsalswl">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjsalswl&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=none" />
