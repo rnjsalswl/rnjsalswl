@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-<img width="800px" src="https://github.com/rnjsalswl/rnjsalswl/blob/main/logo_unscreen.gif" />
+<img width="800px" src="https://github.com/rnjsalswl/rnjsalswl/blob/main/logo.png" />
 <br />
 
 <div>
