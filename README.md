@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <div align=center>
 <img width="800px" src="https://github.com/rnjsalswl/rnjsalswl/blob/main/aaa.gif" />
 <br />
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsalswl&show_icons=true&theme=gotham)
 
 <div>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -47,6 +49,4 @@ Here are some ideas to get you started:
 </a>
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsalswl&show_icons=true&theme=gotham)
-  
 </div>
