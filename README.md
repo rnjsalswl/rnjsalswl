@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-<div>
-  <img width="800px" src="https://github.com/rnjsalswl/rnjsalswl/blob/main/logo.gif" />
-  <br />
-</div>
+<img width="800px" src="https://github.com/rnjsalswl/rnjsalswl/blob/main/logo_unscreen.gif" />
+<br />
 
 <div>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
