@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-<img width="800px" src="https://github.com/rnjsalswl/rnjsalswl/blob/main/aaa.gif" />
 <br />
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjsalswl&show_icons=true&theme=gotham)
